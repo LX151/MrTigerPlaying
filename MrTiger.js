@@ -13,11 +13,7 @@ client.on("ready", () => {
   );
   let statuses = [
    
-    `Joker Staff`,
-    `MrTiGER`,
-    `100k Member soon`,
-    `MrTiger `,
-    `Ilove ❤ `,
+    `s!help`,
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -28,4 +24,4 @@ client.on("ready", () => {
   }, 2000);
 });
 
-client.login("");
+client.login("OTg1OTE0MTE4NDY2ODYzMTY0.GPwjC7.uJ59FdSDthnsQqyFjbq4EJ9RE8Usb9ZGcyF3Ik");
